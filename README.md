@@ -1,7 +1,7 @@
 # Streamlit Dataframe Pagination Demo
 
-Hi! It's a little snippet to add pagination to your streamlit dataframes!
-It uses session state to make a counter and interact with it via buttons (next, prev) to manipulate it and increase or decrease page counter, then uses same page counter to partition dataset into chunks.
+Hi! It's a little snippet to add pagination to your streamlit data frames!
+It uses a session state to make a counter and interact with it via buttons (next, prev) to manipulate it and increase or decrease page counter, then uses the same page counter to partition the dataset into chunks.
 
 - [Streamlit](https://streamlit.io/)
 - [Python](https://www.python.org/)
